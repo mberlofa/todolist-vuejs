@@ -1,3 +1,5 @@
+# Aplicação criada por Glaucia Lemos e clonada para meu Github no bootcamp da DIO
+
 # Aplicação Todo List Vue.js 2 com SWA + GitHub Actions
 
 
